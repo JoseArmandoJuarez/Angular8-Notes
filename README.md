@@ -37,4 +37,11 @@
     * Pipes and Custome pipes
         * Custome Pipes
 
+* Building-Reusable-Components
+    * Component API
+    * Input Properties
+    * Output Properties and Passing event Data
+    * Styles
+    * View Encapsulation
+    * ngContent and ngContainer
 
