@@ -45,3 +45,13 @@
     * View Encapsulation
     * ngContent and ngContainer
 
+* Directives (Structural Directives)
+    * ngIf
+    * Hidden Property
+    * ngSwitchCase
+    * ngFor and Change Detection
+    * ngFor and Trackby
+    * ngClass
+    * ngStyle
+    * Safe Traversal Operator
+    * Creating Custome Directives
