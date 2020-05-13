@@ -181,7 +181,7 @@ field in the form you must need a control class).
 
 ```HTML
     <form #f="ngForm" (ngSubmit)="submit(f)">
-        <!--Checking the validations a whole-->
+        <!--Checking the all validations all together-->
         <button class="btn btn-primary" [disabled]="!f.valid">Submit</button>
     </form>
     
