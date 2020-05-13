@@ -55,3 +55,13 @@
     * ngStyle
     * Safe Traversal Operator
     * Creating Custome Directives
+
+* Template-driven Forms
+    * Building a Bootstrap form
+    * Form Control
+    * Form Group
+    * ngModel
+    * Adding Validation
+    * ngForm
+    * ngModelGroup
+    * Disabling the submit button
