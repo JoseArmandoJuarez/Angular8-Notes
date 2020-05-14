@@ -65,3 +65,12 @@
     * ngForm
     * ngModelGroup
     * Disabling the submit button
+
+* Reactive Forms
+    * Adding Validation to reactive forms
+    * Implementing Custome Validation
+    * Asynchronous Operations and Asynchronous Validations
+    * Adding a loader 
+    * Validation Upon Submit
+    * Nested FormGroups
+    * Form Array and Form Builder
