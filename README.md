@@ -74,3 +74,10 @@
     * Validation Upon Submit
     * Nested FormGroups
     * Form Array and Form Builder
+
+* Consuming-http-services
+    * Getting Data
+    * Creating Data
+    * Update Data
+    * Deleting Data
+    * OnInit
